@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+   padding:20px;
+    display: flex;
+    background-color: blue;
+    color: white;
+   
+}
+
+
+.main{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+
+
+
+
+
+
+.footer{
+background-color: black;
+color: white;
+display: flex;
+justify-content: center;
+    padding: 50px;
+
+}
